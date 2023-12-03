@@ -1,0 +1,20 @@
+.nav-hero{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.nav-hero-img{
+    height: 300px;
+    width: 500px;
+}
+.hero-header{
+    text-align: left;
+    padding-left: 30px;
+    font-weight: 500;
+}
+.hero-para{
+    text-align: left;
+    padding-left: 30px;
+    max-width: 320px;
+    font-weight: 300px;
+}
